@@ -1,4 +1,4 @@
-baseURL = "https://base.okabrionz.com/"
+baseURL = "https://slang-dictionary.netlify.app/"
 languageCode = "en-us"
 title = "Hugo Base"
 theme = "brionz-base"
@@ -10,4 +10,3 @@ summaryLength = "25"
   title = "Front Page"
   description = "This is homepage of bRionZ Base Hugo boilerplate theme."
   image = ["site-feature-image.jpg"]
-

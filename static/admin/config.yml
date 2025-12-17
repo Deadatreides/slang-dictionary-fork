@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  branch: main # Убедитесь, что это имя вашей главной ветки (main или master)
+  branch: master # Убедитесь, что это имя вашей главной ветки (main или master)
 
 media_folder: "static/img" # Папка для загрузки изображений
 public_folder: "/img"      # Путь для доступа к изображениям

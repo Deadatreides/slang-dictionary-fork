@@ -1,12 +1,12 @@
 baseURL = "https://slang-dictionary.netlify.app/"
 languageCode = "en-us"
-title = "Hugo Base"
+title = "Slang Dictionary"
 theme = "brionz-base"
 sectionPagesMenu = "main"
 googleAnalytics = "UA-123-452-1"
 summaryLength = "25"
 
 [params]
-  title = "Front Page"
-  description = "This is homepage of bRionZ Base Hugo boilerplate theme."
-  image = ["site-feature-image.jpg"]
+  title = "Slang Dictionary"
+  description = "Самый актуальный словарь современного сленга."
+  mainSections = ["posts"]  # Это заставит тему искать посты для главной
